@@ -128,7 +128,17 @@
               "en",
               "fr",
               "es",
-              "ru"
+              "ru",
+              "de",
+              "it",
+              "nl",
+              "zh-CN",
+              "ar",
+              "ja",
+              "ko",
+              "sv",
+              "no",
+              "hi"
             ],
             "label": "language",
             "defaultValue": "pt"
