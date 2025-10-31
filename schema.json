@@ -131,7 +131,7 @@
               "nl"
             ],
             "label": "language",
-            "defaultValue": "nl"
+            "defaultValue": "pt"
           },
           {
             "type": "event",
